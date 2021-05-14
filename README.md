@@ -46,8 +46,7 @@ You may start Plex Presence as any *Python* script.
 python3 plex-presence.py
 ```
 
-Or start the `.exe` file if you want.
-Check the [release](https://github.com/Gyrfalc0n/Plex-Presence/releases) page to download English or French `.exe` file of **Plex Presence**
+Check the [release](https://github.com/Gyrfalc0n/Plex-Presence/releases) page to download English or French `.py` file of **Plex Presence**.
 
 ### Using
 
