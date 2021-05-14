@@ -3,7 +3,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
-[![License][license-shield]][license-url]
 </p>
 
 <br />
@@ -70,5 +69,3 @@ Author : [Gyrfalc0n](https://github.com/Gyrfalc0n)
 [stars-url]: https://github.com/Gyrfalc0n/Plex-Presence/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Gyrfalc0n/Plex-Presence.svg?style=for-the-badge
 [issues-url]: https://github.com/Gyrfalc0n/Plex-Presence/issues
-[license-shield]: https://img.shields.io/github/license/Gyrfalc0n/Plex-Presence.svg?style=for-the-badge
-[license-url]: https://github.com/Gyrfalc0n/Plex-Presence/blob/master/LICENSE
