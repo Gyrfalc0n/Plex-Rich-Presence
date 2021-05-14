@@ -43,7 +43,7 @@ You can see the server name in the top left above your available libraries.
 You may start Plex Presence as any *Python* script.
 
 ```
-python3 plex-presence.py
+python3 EN-plex-presence.py
 ```
 
 Check the English or French `.py` file of **Plex Presence** and download the one you want or change the *strings* to match yours.
