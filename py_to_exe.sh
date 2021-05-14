@@ -1,1 +1,0 @@
-pyinstaller --onefile --name PlexPresence --icon=images/plex.ico plex-presence.py
