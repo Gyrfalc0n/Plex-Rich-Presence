@@ -34,7 +34,7 @@ Create a file named `.env` in the same directory of the `.py` file. Write the fo
 
 ```env
 USERNAME=your_username
-PASSWORD==your_password
+PASSWORD=your_password
 SERVERNAME=your_server_name
 ```
 You can see the server name in the top left above your available libraries.
