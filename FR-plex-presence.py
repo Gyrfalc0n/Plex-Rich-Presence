@@ -23,8 +23,11 @@ base_timer = int(time.time())
 client_id = "842745089696596010"
 image = "plex"
 large_text = "Plex Media Server"
+small = "github"
+small_text = "Github: Plex-Rich-Presence"
 RPC = Presence(client_id)
 RPC.connect()
+print("Plex Rich Presence init")
 
 # update function
 def update():
@@ -53,11 +56,15 @@ def update():
                 details=details,
                 large_image=image,
                 large_text=large_text,
+                small_image=small,
+                small_text=small_text,
                 end=stop_time)
     else:
         RPC.update(details=details,
                 large_image=image,
                 large_text=large_text,
+                small_image=small,
+                small_text=small_text,
                 start=base_timer)
 while True:
     update()
