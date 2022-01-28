@@ -10,9 +10,7 @@
   <a href="https://www.plex.tv/fr/media-server-downloads/">
     <img src="https://developer.asustor.com/uploadIcons/0020_999_1562298048_pmp2-256_icon.png" alt="Logo" width="80" height="80">
   </a>
-   <a href="https://discord.com/">
-    <img src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" alt="Logo" width="80" height="80">
-  </a>
+
   <h1 align="center">Plex Presence</h1>
   
 ## What is it for? 
