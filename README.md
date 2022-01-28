@@ -28,6 +28,12 @@ Currently, **Plex Presence** will display the movies and series you are watching
 
 ## Configuration
 
+Install requirements with: 
+
+```
+python -m pip install -r requirements.txt
+```
+
 Create a file named `.env` in the same directory of the `.py` file. Write the following lines in : 
 
 ```env
